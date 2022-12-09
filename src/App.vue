@@ -5,7 +5,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <header>
-
+    123456
     <div class="wrapper">
       <HelloWorld msg="You did it!" />
 
